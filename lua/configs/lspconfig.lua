@@ -1,4 +1,3 @@
--- lua/config/lspconfig.lua
 local M = {}
 
 local on_attach = function(client, bufnr)
